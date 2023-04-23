@@ -5,7 +5,6 @@ function App() {
   return (
     <div className="App">
       <p>This is a placeholder, under development</p>
-      </header>
     </div>
   );
 }
